@@ -8,6 +8,7 @@
 
 Nesse nível foi criada uma aplicação chamada Github Explorer, o principal objetivo é demonstrar os conceitos do React. Os principais conceitos vistos nesse nível foram:
 
+- Babel (configuração e utilização)
 - Componentização.
 - Estado e Imutabilidade.
 - Chamada à API utilizando o axios.
