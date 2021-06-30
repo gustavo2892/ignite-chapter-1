@@ -1,4 +1,5 @@
 import { RepositoryItem } from './RepositoryItem';
+import { Counter } from './Counter';
 
 const repository = {
   name: 'unform',
@@ -13,9 +14,8 @@ export function RepositoryList() {
 
       <ul>
         <RepositoryItem repository={repository} />
-        <RepositoryItem />
-        <RepositoryItem />
       </ul>
+      <Counter />
     </section>
   );
 }
