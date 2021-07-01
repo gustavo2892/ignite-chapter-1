@@ -13,8 +13,10 @@ Nesse nível foi criada uma aplicação chamada Github Explorer, o principal obj
 - Servidor HTML estático com Webpack
 - Componentização.
 - Estado e Imutabilidade.
+- Hooks React
 - Chamada à API utilizando o axios.
 - Configuração de Babel e Webpack
+- Webpack refresh
 
 ### Tech Stack
 
